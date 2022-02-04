@@ -3,7 +3,7 @@ import org.junit.*;
 
 public class SkillDemoFTest {
 	public void addition() {
-		assertEquals(true, true);
+		assertEquals(2, SkillDemoF.add(1,3));
 	}
     
 }
